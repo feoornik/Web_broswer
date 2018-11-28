@@ -1,0 +1,7 @@
+c:\users\fisayo\documents\visual studio 2010\Projects\WebTab\WebTab\bin\Debug\WebTab.exe
+c:\users\fisayo\documents\visual studio 2010\Projects\WebTab\WebTab\bin\Debug\WebTab.pdb
+c:\users\fisayo\documents\visual studio 2010\Projects\WebTab\WebTab\obj\x86\Debug\WebTab.Form1.resources
+c:\users\fisayo\documents\visual studio 2010\Projects\WebTab\WebTab\obj\x86\Debug\WebTab.Properties.Resources.resources
+c:\users\fisayo\documents\visual studio 2010\Projects\WebTab\WebTab\obj\x86\Debug\WebTab.csproj.GenerateResource.Cache
+c:\users\fisayo\documents\visual studio 2010\Projects\WebTab\WebTab\obj\x86\Debug\WebTab.exe
+c:\users\fisayo\documents\visual studio 2010\Projects\WebTab\WebTab\obj\x86\Debug\WebTab.pdb
